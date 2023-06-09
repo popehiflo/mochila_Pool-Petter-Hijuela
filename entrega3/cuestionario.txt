@@ -1,0 +1,12 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos
+sistemas operativos y en otros no?.
+* Por la estructura de los archivos, por los comandos empleados.
+* Por el manejo de recursos.
+* Un lenguaje de programación requiere un compilador o un intérprete para convertir el código fuente en instrucciones ejecutables por el sistema operativo.
+
+¿Qué tipo de máquina virtual es virtualBox?.
+Las máquinas virtuales creadas en VirtualBox son máquinas virtuales de sistema completo, lo que significa que simulan un sistema informático completo con su propio sistema operativo, recursos de hardware virtuales y aplicaciones instaladas. 
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las
+demás? ¿por qué?
+No, porque cada máquina virtual se ejecuta de manera aislada y tiene su propio sistema operativo, aplicaciones y recursos de hardware virtuales asignados.

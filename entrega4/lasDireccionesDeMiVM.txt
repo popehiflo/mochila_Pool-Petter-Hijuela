@@ -1,0 +1,7 @@
+192.168.1.7 190.239.143.18
+00:15:5D:74:07:F9
+Sí, la IP pública y privada de nuestra máquina host son diferentes.
+La dirección IP privada se utiliza dentro de una red local para 
+identificar de manera única un dispositivo en esa red. Por otro lado,
+la dirección IP pública se utiliza para identificar de manera única una 
+red o dispositivo en Internet.

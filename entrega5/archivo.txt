@@ -1,0 +1,19 @@
+Ingrese al sitio: killercoda.com/playgrounds/scenario/ubuntu
+Luego hice las siguientes interacciones para clonar mi repo:
+    1  apt-get update
+    2  halt
+    3  ls
+    4  git clone https://github.com/popehiflo/mochila_Pool-Petter-Hijuela.git
+    5  ls
+    6  cd mochila_Pool-Petter-Hijuela/
+    7  git status
+    8  git checkout -b entrega5
+    9  git branch
+   10  cd entrega5/
+   11  ls
+   12  touch archivo.txt
+   13  history > archivo.txt
+Por ultimo agregare,commiteare y pusheare este archivo con:
+   14  git add .
+   15  git commit -m "feat: entrega5"
+   16  git push -u origin entrega5
